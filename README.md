@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/56144936/160723485-c34f1ded-b01c-4c99-aea3-92405fe83d2a.png)
 
-<img width = "50%" align="center" alt="png" height="100%" src="https://user-images.githubusercontent.com/56144936/160723485-c34f1ded-b01c-4c99-aea3-92405fe83d2a.png" />
+<img width = "50%" align="center" alt="png" src="https://user-images.githubusercontent.com/56144936/160723485-c34f1ded-b01c-4c99-aea3-92405fe83d2a.png" />
