@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 You can find my LinkedIn profile at the below QR code!
 
 <!--
 **IgnaciodosSantosClaro/IgnaciodosSantosClaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
