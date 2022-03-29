@@ -1,5 +1,5 @@
-### Hi there 👋 You can find my LinkedIn profile at the below QR code!
-
+#I'm Ignacio!
+###You can find my LinkedIn here!
 <!--
 **IgnaciodosSantosClaro/IgnaciodosSantosClaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![image](https://user-images.githubusercontent.com/56144936/160723485-c34f1ded-b01c-4c99-aea3-92405fe83d2a.png)
+
+<img width = "50%" align="center" alt="png" height="10%" src="https://user-images.githubusercontent.com/56144936/160723485-c34f1ded-b01c-4c99-aea3-92405fe83d2a.png" />
