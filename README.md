@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-##I also upload lofi chill music for you to work/relax/study 🎵🐑
+## I also upload lofi chill music for you to work/relax/study 🎵🐑
 
 https://www.youtube.com/channel/UCDTb9ChmPh0kzXcWOOGETyQ/videos
 
