@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ## I also upload lofi chill music for you to work/relax/study 🎵🐑
 
+<img id="img" draggable="false" class="style-scope yt-img-shadow" width="80" alt="" src="https://yt3.ggpht.com/ytc/AKedOLSqGlqrf06sYtUHiZBfrwAXxUBusQOzzTT6GKT9=s88-c-k-c0x00ffffff-no-rj">
+
 https://www.youtube.com/channel/UCDTb9ChmPh0kzXcWOOGETyQ/videos
 
 # You can invite me a cofee! ☕
